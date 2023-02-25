@@ -1,0 +1,12 @@
+.table {
+  background: #f5ffff;
+  border-collapse: collapse;
+  text-align: center;
+  margin: 50px auto 50px auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.title {
+  display: flex;
+  border: 1px solid rgb(8, 7, 7);
+}
